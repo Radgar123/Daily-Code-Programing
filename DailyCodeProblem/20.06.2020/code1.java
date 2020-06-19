@@ -16,7 +16,7 @@ public class code1
             for (int j = 0; j < arr.length; j++)
             {
                 if(arr[i] + arr[j] == k)
-                    System.out.println(arr[i] + " " +  arr[j] + " = " + k + " true");
+                    System.out.println(arr[i] + " + " +  arr[j] + " = " + k + " true");
                /* else
                     System.out.println("false");*/
             }
