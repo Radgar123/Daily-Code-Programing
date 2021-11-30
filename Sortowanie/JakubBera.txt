@@ -1,0 +1,2 @@
+Autor: Jakub Bera
+Są to moje przykłady algorytmów sortujących
